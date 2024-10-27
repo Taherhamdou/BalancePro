@@ -6,7 +6,8 @@ BalancePro  is a comprehensive fitness and  it is a tracking tool designed to he
 ## Key Features ✨
 
 **Workout Tracking**: Log workouts, monitor progress, and set fitness goals. 
- **Reps Counting**: count repetitions during exercises for accurate tracking. 
+
+**Reps Counting**: count repetitions during exercises for accurate tracking. 
 **Meal Planning**: Plan and track meals with nutritional insights. 
 **Meditation**:  Access guided meditation sessions and track your activities. 
  **Progress Reports**: Generate detailed progress reports based on your workout 
