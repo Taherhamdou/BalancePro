@@ -18,13 +18,13 @@ Follow the steps below to install VitalFit on your device, depending on your ope
  ### 1. Installing on **Windows**🖥️
 To install VitalFit on Windows, follow these steps using **Chocolatey**:
 1. **Install Chocolatey** (if not already installed):
- Open **PowerShell** as Administrator and run the following command to install Chocolatey: ```bash Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1')) ```
-2 **Install VitalFit**: 
-- Once Chocolatey is installed, run this command in **PowerShell** to install VitalFit: ```bash choco install vitalfit ```-
+ Open **PowerShell** as Administrator and run the following command to install Chocolatey: ```bash Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1')) ```-
+2 **Install VitalFit**:
+- Once Chocolatey is installed, run this command in **PowerShell** to install VitalFit: ```bash choco install vitalfit ```
 ### 2. Installing on **macOS** 🍏
 To install VitalFit on macOS, follow these steps using **Homebrew**:
 1. **Install Homebrew** (if not already installed): - Open **Terminal** and run this command to install Homebrew: ```bash /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" ```
-2. **Install VitalFit**: - Once Homebrew is installed, run this command in **Terminal** to install VitalFit: ```bash brew install vitalfit ```-
+2. **Install VitalFit**: - Once Homebrew is installed, run this command in **Terminal** to install VitalFit: ```bash brew install vitalfit ```
 
 ### 3. Installing on **Linux** (Debian/Ubuntu-based distributions) 🐧
 For Linux users, follow these steps using the **apt** package manager:
