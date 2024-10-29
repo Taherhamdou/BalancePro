@@ -2,7 +2,7 @@
 
 BalancePro  is a comprehensive fitness and  it is a tracking tool designed to help users stay on top of their health goals and stay aware to thier well-being . With powerful workout tracking, meal planning, and mindfulness features, the app makes it easy to lead a balanced and healthy lifestyle.
 
-(Fittness.png)
+[Fitness](file:///C:/Users/taher/Downloads/Fittness.png)
 ## Key Features ✨
 
 **Workout Tracking**: Log workouts, monitor progress, and set fitness goals. 
