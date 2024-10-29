@@ -47,7 +47,6 @@ To create a new fitness plan in VitalFit, follow these steps:
 
 ### Meal Planning 🍽️
 VitalFit allows users to generate progress reports that include data from workouts and meal tracking. Here's an example of a report in JSON format:
-
 |         Meal Option       |Description                        |Nutritional Insights                         |
 |----------------|-------------------------------|-----------------------------|
 |Manual Meal Entry|Users can manually input meals and snacks        |Yes            |
