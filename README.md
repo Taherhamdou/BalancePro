@@ -2,7 +2,8 @@
 
 BalancePro  is a comprehensive fitness and  it is a tracking tool designed to help users stay on top of their health goals and stay aware to thier well-being . With powerful workout tracking, meal planning, and mindfulness features, the app makes it easy to lead a balanced and healthy lifestyle.
 
-[Fitness](file:///C:/Users/taher/Downloads/Fittness.png)
+
+
 ## Key Features ✨
 
 **Workout Tracking**: Log workouts, monitor progress, and set fitness goals. 
@@ -10,9 +11,13 @@ BalancePro  is a comprehensive fitness and  it is a tracking tool designed to he
 **Reps Counting**: count repetitions during exercises for accurate tracking. 
 **Meal Planning**: Plan and track meals with nutritional insights. 
 **Meditation**:  Access guided meditation sessions and track your activities. 
- **Progress Reports**: Generate detailed progress reports based on your workout 
-  **App Integrations**: Connect with other health apps for a seamless experience.
+**Progress Reports**: Generate detailed progress reports based on your workout 
+**App Integrations**: Connect with other health apps for a seamless experience.
+
   
+![everything-you-need-know-about-fitness-1440x810](https://github.com/user-attachments/assets/791d2842-b614-4757-ac0d-e765f8cefa47)  
+
+
 ## Installation Guide 📥
 Follow the steps below to install VitalFit on your device, depending on your operating system:
  ### 1. Installing on **Windows**🖥️
